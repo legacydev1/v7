@@ -1,11 +1,11 @@
 require("./all/module")
 global.storename = "VIOLET CRASH"
-global.dana = "2347019170750"
+global.dana = "2348024322741"
 global.gopay = ""
 global.qris = false
-global.owner = '2347019170750"
+global.owner = '2348024322741"
 global.namabot = "VIOLET V4"
-global.nomorbot = "2347019170750"
+global.nomorbot = "2348024322741"
 global.namaCreator = "VIOLET CRASH"
 global.linkyt = ""
 global.autoJoin = false
